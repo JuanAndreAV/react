@@ -23,7 +23,30 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+body{
+  background-color: rgb(173, 169, 165);
+}
+h1{
+  color: rgb(27, 26, 26);
+}
 
+p{
+  color: rgb(59, 45, 87);
+}
+button{
+  cursor: pointer;
+  border-radius: 5px;
+  width: 200px;
+  height: 40px;
+  color: rgb(214, 214, 230);
+  background-color: rgb(87, 81, 81);
+  margin-top: 20px;
+
+}
+input{
+  width: 30px;
+  background-color: rgb(181, 181, 223);
+}
 .App-link {
   color: #61dafb;
 }
