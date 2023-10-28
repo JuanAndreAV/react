@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #96999e;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -24,7 +24,7 @@
   color: white;
 }
 body{
-  background-color: rgb(173, 169, 165);
+  background-color: rgb(204, 174, 144);
 }
 h1{
   color: rgb(27, 26, 26);
@@ -38,7 +38,7 @@ button{
   border-radius: 5px;
   width: 200px;
   height: 40px;
-  color: rgb(214, 214, 230);
+  color: rgb(20, 20, 22);
   background-color: rgb(87, 81, 81);
   margin-top: 20px;
 
